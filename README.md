@@ -1,8 +1,15 @@
 <div id="header" align="center">
-  <h1>Добро пожаловать!</h1>
-  <h3></h3>
+  <h1>Welcome!</h1>
+  <h3>Junior Python Developer</h3>
 </div>
-
+<div id="socials" align="center">
+  <a href="https://t.me/Boldfur">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://vk.com/ras_t0">
+    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Telegram">
+  </a>
+</div>
 <!--
 **RaST0/rast0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
