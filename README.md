@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Welcome!</h1>
-  <h3>Junior Python Developer</h3>
+  <h3>Vulnerability Researcher/Reverse engineer</h3>
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/Boldfur">
